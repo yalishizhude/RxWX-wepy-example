@@ -1681,9 +1681,9 @@ rx-lite@^3.1.2:
   version "3.1.2"
   resolved "https://registry.yarnpkg.com/rx-lite/-/rx-lite-3.1.2.tgz#19ce502ca572665f3b647b10939f97fd1615f102"
 
-rxjs-wx@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/rxjs-wx/-/rxjs-wx-1.0.6.tgz#7fb83ab4286d06a3ec3496b1d229fdc39fa7225d"
+rxjs-wx@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/rxjs-wx/-/rxjs-wx-1.1.1.tgz#7fb83ab4286d06a3ec3496b1d229fdc39fa7225d"
 
 safe-buffer@^5.0.1, safe-buffer@~5.1.0, safe-buffer@~5.1.1:
   version "5.1.1"
